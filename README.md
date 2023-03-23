@@ -1,4 +1,4 @@
-# OIBSIP
+# OIBSIP task 2
 import java.util.Scanner;
 
 class BankAccount {
@@ -188,7 +188,7 @@ class BankAccount {
 
 public class ATMinterface {
     public static void main(String[] args) {
-        BankAccount ba = new BankAccount("Huzefa", "1001");
+        BankAccount ba = new BankAccount("SNEHASHISH", "1001");
         ba.checkId();
     }
 
